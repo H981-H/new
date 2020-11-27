@@ -1,9 +1,4 @@
-<style>
-body2 {
-text-align: center;
-font-size:25px;  
-}
-</style>
+
 
 <html>
  
