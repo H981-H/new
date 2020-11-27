@@ -2,7 +2,7 @@
   
   <style> {
   body1 
-  color: orange
+  color: orange;
   }
   </style>
   
