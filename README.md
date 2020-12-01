@@ -18,6 +18,6 @@
 body1 {
 text-align: center;
 font-size:25px; 
-text-color: red;
+color: red;
 }
 </style>
